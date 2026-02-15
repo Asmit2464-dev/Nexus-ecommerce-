@@ -5,7 +5,7 @@ Designed with a modern UI/UX approach, smooth scroll animations, and dynamic sho
 
 ---
 
-##Live demo:  
+##Live demo:  https://asmit2464-dev.github.io/Nexus-ecommerce-/
 
 ## 🚀 Features
 
